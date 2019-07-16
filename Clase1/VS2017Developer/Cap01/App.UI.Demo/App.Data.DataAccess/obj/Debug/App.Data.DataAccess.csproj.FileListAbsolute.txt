@@ -1,0 +1,6 @@
+C:\Clase_visual_cibertec\Clase1\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\Clase_visual_cibertec\Clase1\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\Clase_visual_cibertec\Clase1\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\Clase_visual_cibertec\Clase1\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\Clase_visual_cibertec\Clase1\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\Clase_visual_cibertec\Clase1\VS2017Developer\Cap01\App.UI.Demo\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb

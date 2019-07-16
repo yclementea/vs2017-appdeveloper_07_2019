@@ -1,0 +1,47 @@
+GITHUB: Repositorio de codigos.
+
+
+* Orientarse en que framework se va trabajar. Ya que necesario saber en que tipo de framework trabaja la empresa.
+
+Para la visualizacion:
+se podria ver: C:\Windows\Microsoft.NET
+Pero para cerciorarse, se tendra que validar en el registro de windows.
+ruta: https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed
+
+UI=> Capa de presentacion.
+* La solucion, es un contenedor de proectos
+Las DLL, deben estar relacionados a un proyecto.
+
+*CAPAS FISICAS=> separados en varios servidores
+*CAPAS LOGICAS=> Separados, en un mismo lugar 
+
+* Compilar la solucion: crear las dll's, en la solucion mvc, se almancen en la carpet BIN.
+
+Debug=> Modo desarrollo
+Release=> Modo producion
+
+
+CAMEL CASE:Formas de Grabar los nombres
+***********
+
+FACTURACIONELECTRONICA
+FacturacionElectronica
+	-Archivos
+	-Clases
+	-Propiedades
+	-Metodos
+	-Tablas y Campos
+facturacionElectronica
+	-Variables
+
+
+<App>.<NombreCapa>.<NombreSubCapa>
+
+
+*************************
+Configuracion GITHUB
+
+
+52942957+yclementea@users.noreply.github.com
+
+*********************************
